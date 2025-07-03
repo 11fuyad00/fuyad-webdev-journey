@@ -1,0 +1,19 @@
+div {
+  margin: 20px;
+  background-color: brown;
+  padding: 30px;
+  color: white;
+}
+h3 {
+  color: violet;
+  font-size: large;
+  border: 3px solid white;
+  text-align: center;
+  box-shadow: inset 15px 15px 20 px;
+}
+H2 {
+  color: violet;
+  font-size: large;
+  border: 3px solid white;
+  text-align: center;
+}
